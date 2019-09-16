@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432322835818",
+    "firebase_url": "https://proandroid-500cd.firebaseio.com",
+    "project_id": "proandroid-500cd",
+    "storage_bucket": "proandroid-500cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432322835818:android:e20913fcef818b7a",
+        "android_client_info": {
+          "package_name": "com.example.introscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432322835818-0t20k02s0hvqohq0n58t2ta3ftvs42oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.introscreen",
+            "certificate_hash": "ed98b2263474cd5090bccb61c77608d91f559ce0"
+          }
+        },
+        {
+          "client_id": "432322835818-je04n4me0l6k0d6km8i04oej0iuadum9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEjBUFCsMaa6c0mE2M3MpmO1L0RgLwU6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432322835818-je04n4me0l6k0d6km8i04oej0iuadum9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
