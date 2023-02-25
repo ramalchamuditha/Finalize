@@ -6,4 +6,6 @@ as mention above this application is works only on the unversity premises restur
 
 After registration they can view resturant's menus which updated by those resturants in different application. Students can order their meal by their choices from online 
 within the given time period. Time period is assign by the resturant employees.
+
+Students can order their foods in assigned time period and they will get a order id, once they got the order id they can get thier meal from the resturant without staying the queue.
 </p>
